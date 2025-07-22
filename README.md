@@ -100,8 +100,8 @@ PrepWiseAI/
 
 ## 👨‍💻 Author
 
-**Ashish Musmade**  
-[GitHub Profile](https://github.com/ashishmusmade45)
+**Pankaj Damale**  
+[GitHub Profile](https://github.com/Pankaj-099)
 
 ---
 
