@@ -34,11 +34,6 @@ An AI-powered interview preparation platform built with the MERN stack. PrepWise
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/ashishmusmade45/PrepWise-AI.git
-cd PrepWiseAI
-```
-
 ### 2. Install dependencies
 
 ```bash
